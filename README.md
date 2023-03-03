@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Cabdiraxiim🤹&width=800&height=400)](https://github.com/cabdiraxiimaxmed)
 <h1 align="center">Hey 👋 Magaceygu waa Cabdiraxiim Axmed</h1>
 <h3 align="center">Waxaan jeclahay FullStack development</h3>
 
