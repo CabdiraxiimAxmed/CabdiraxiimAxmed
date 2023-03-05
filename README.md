@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabdiraxiimaxmed&label=Profile%20views&color=0e75b6&style=flat" alt="cabdiraxiimaxmed" /> </p>
 
-- 💬 Intaan wax iga weydii **react, node, python**
-
-- 📫 Halkaan igala soo xariir **abdirahimiahmed@gmail.com**
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  </p>
+    - 💬 Intaan wax iga weydii **react, node, python**
+    - 🔭 ku gudo jira soom_garaad
+    - 📫 Halkaan igala soo xariir **abdirahimiahmed@gmail.com**
+</div>
 
 <h3 align="left">Baraha bulshada:</h3>
 <p align="left">
