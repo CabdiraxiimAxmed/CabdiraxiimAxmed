@@ -7,7 +7,9 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
     - 💬 Intaan wax iga weydii **react, node, python**
+
     - 🔭 ku gudo jira soom_garaad
+
     - 📫 Halkaan igala soo xariir **abdirahimiahmed@gmail.com**
 </div>
 
